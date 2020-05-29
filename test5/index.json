@@ -6,7 +6,7 @@
   "details": {
     "assets": {
       "host01": [
-          {"file": "deploy.yml", "target": "/root", "chmod": "+x"}
+          {"file": "deploy.yaml", "target": "/root", "chmod": "+x"}
       ]
   },
     "steps": [
