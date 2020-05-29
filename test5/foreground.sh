@@ -1,1 +1,2 @@
-kubectl apply -f /root/deploy.yaml
+sleep 1;
+kubectl apply -f /root/deploy.yaml;
