@@ -1,1 +1,1 @@
-kubectl apply -f deploy.yaml
+kubectl apply -f /root/deploy.yaml
